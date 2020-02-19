@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\sarah\\Desktop\\MVC_Movie_List_App\\MvcMovie.csproj",
+  "TargetFramework": "netcoreapp3.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  }
+}
